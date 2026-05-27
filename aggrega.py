@@ -4,7 +4,7 @@ import requests
 import json
 from datetime import datetime
 
-FEED_URL = "https://ansa.it"
+FEED_URL = "https://mediaset.it"
 OUTPUT_DIR = "content/posts"
 API_KEY = os.environ.get("GEMINI_API_KEY")
 
