@@ -1,0 +1,7 @@
+baseURL = 'https://localhost/'
+languageCode = 'it-it'
+title = 'Eco del Web'
+theme = 'hugo-theme-next'
+
+[params]
+  description = 'Giornale online di informazione e tecnologia'
