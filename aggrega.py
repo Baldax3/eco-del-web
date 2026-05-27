@@ -48,5 +48,5 @@ draft: true
         with open(f"{OUTPUT_DIR}/notizia_{index}.md", "w", encoding="utf-8") as f:
             f.write(file_contenuto)
 
-if name == "main":
+if __name__ == "__main__":
     avvia_giornale()
